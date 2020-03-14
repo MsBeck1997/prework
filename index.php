@@ -5,6 +5,6 @@
 		<title>I completed the Prework</title>
 	</head>
 	<body>
-		<p>I completed the Prework! :):wq</p>
+		<p>I completed the Prework! :)</p>
 	</body>
 </html>
